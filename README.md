@@ -49,8 +49,7 @@ This repository is designed to cover everything from **basics to advanced concep
 * `df.groupby()` + `.agg()`
 * `df.pivot_table()`
 * `df.resample()`
-* `df.rolling()`, `df.expanding()`, `df.ewm()`
-* `pd.crosstab()`, `df.pivot()`, `df.melt()`
+* `df.rolling()`
 
 ---
 
