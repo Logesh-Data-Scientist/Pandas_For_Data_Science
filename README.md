@@ -131,8 +131,10 @@ pandas-mastery/
 
 ## 🚀 How to Use
 
-```bash
-pip install pandas numpy jupyter
+```Command prompt
+create a environment named venv
+pip install jupyter notebook
+!pip install pandas numpy jupyter
 jupyter notebook
 ```
 
